@@ -42,6 +42,7 @@ STL files used on the making of the glider
 -For making this project i used the stl files of the ECLIPSON APEX glider.
 
 -I chose this STL file because of its:
+    
     .Capacity(to carry components)
     
     .Long wingspan
