@@ -36,8 +36,8 @@ Purpose
 
 -This makes it possible to build an autonomous solar-electric glider platform while maintaining flexibility for upgrades and experimentation.
 
-STL iles used on the making of the glider 
------------------------------------------
+STL files used on the making of the glider 
+------------------------------------------
 
 -For making this project i used the stl files of the ECLIPSON APEX glider.
 
