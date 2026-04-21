@@ -35,3 +35,15 @@ Purpose
 -The use of CAD and 3D printing allows the aircraft to be lightweight, customizable, and easily reproducible. 
 
 -This makes it possible to build an autonomous solar-electric glider platform while maintaining flexibility for upgrades and experimentation.
+
+STL iles used on the making of the glider 
+-----------------------------------------
+
+-For making this project i used the stl files of the ECLIPSON APEX glider.
+
+-I chose this STL file because of its:
+    .Capacity(to carry components)
+    .Long wingspan
+    .Efiicient glider design
+    .Upgradability
+    
