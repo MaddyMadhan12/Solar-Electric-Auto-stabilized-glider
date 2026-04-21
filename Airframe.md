@@ -43,7 +43,10 @@ STL files used on the making of the glider
 
 -I chose this STL file because of its:
     .Capacity(to carry components)
+    
     .Long wingspan
+    
     .Efiicient glider design
+    
     .Upgradability
     
