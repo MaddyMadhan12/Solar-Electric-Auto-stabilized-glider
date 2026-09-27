@@ -2,8 +2,8 @@
 ---------------------------------------
 My project is a lightweight solar RC glider built for long, efficient flight. Solar panels extend battery life, and a brushless motor provides takeoff power before gliding. Sensors and servos add basic auto-stability and control. An onboard camera captures real-time aerial footage.
 
-
 <img width="860" height="573" alt="image" src="https://github.com/user-attachments/assets/130d33a9-6f0e-4eb5-9fca-06424a52eaab" />
+
 Why I Started This Project
 --------------------------
 I’m passionate about aerospace engineering and long-endurance aircraft. Real solar UAVs and gliders can stay airborne for extremely long periods, and I wanted to build a scaled experimental prototype to understand the real challenges behind them.
